@@ -9,7 +9,7 @@
   margin: 50px auto;
 }
 
-p {
+/* p {
   display: block;
   width: 400px;
   margin: 50px auto;
@@ -19,7 +19,7 @@ p {
   color: #333;
   line-height: 1.5;
   text-align: center;
-}
+} */
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
